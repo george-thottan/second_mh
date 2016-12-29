@@ -47,3 +47,7 @@ end
 group :production do
 	gem 'pg', '0.12.2'
 end
+
+gem 'devise', '3.0.0.rc'
+
+gem 'protected_attributes'
